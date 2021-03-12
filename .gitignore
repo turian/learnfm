@@ -1,5 +1,7 @@
 *.o
 *.pyc
-patches
+compact.bin
 dx7core/build
-
+names.txt
+patches
+output/
