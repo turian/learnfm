@@ -18,6 +18,9 @@
 
 // Note that if we were on C++11, we'd use aligned_storage or somesuch.
 
+#include <cstddef>
+#include <cstdint>
+
 #ifndef __ALIGNED_BUF_H
 #define __ALIGNED_BUF_H
 
